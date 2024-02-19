@@ -8,24 +8,28 @@
 
 ## Education
 **Temple University | B.S. Biology**
+
 *August 2022 - Current*
 - Undergraduate Advisor: Matthew Helmus, PhD
 - Memberships: Grey Matters Club and Research Scholars Program
 
 **Montgomery County Community College | A.S. Life Sciences**
+
 *August 2019 - August 2021*
 
 ## Research Projects
 **Undergraduate Research Project- slFGPT**
-*January 2024 - Current*
 
+*January 2024 - Current*
 - Implementing a Large Language Model (GPT) through OpenAI for the early detection and management of spotted lanternfly populations to enhance knowledge and understanding of this invasive species.
 
 **University Project, Palmer Penguin Data Science Project**
+
 *April 2023 - May 2023*
 - Collaborated with team members using Python to compare male and female body mass, bill length and depth, and flipper length and visualized the data analysis using histogram graphs.
 
 **University Project, Winter Olympics Data Science Project**
+
 *February 2023 - March 2023*
 - Statistically analyzed Winter Olympic Medalists’ data through the use of five-number summaries using Python and visualized the data by creating histograms, scatterplots, and bar graphs.
 
