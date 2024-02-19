@@ -38,6 +38,9 @@
 
 ## Skills
 
-- Experience with Microsoft Office (Excel, Word, Powerpoint)
+- Experience with Microsoft Office & Applications
 - Experience with R
 - Experience with Python
+- Organizational Skills
+- Medical Scribing
+- Knowledge of EMR
