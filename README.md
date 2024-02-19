@@ -14,7 +14,6 @@
 
 **Montgomery County Community College | A.S. Life Sciences**
 *August 2019 - August 2021*
-- Membership: Biology Club
 
 ## Research Projects
 **Undergraduate Research Project- slFGPT**
