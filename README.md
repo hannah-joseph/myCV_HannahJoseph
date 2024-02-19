@@ -1,7 +1,7 @@
 # **CURRICULUM VITAE**
 ## **Hannah Joseph**
 ### **Undergraduate Biology Student**
-[Email](hmjoseph018@gmail.com)
+[Email](hannah.joseph0001@temple.edu)
 - Integrative Ecology Lab (iEcoLab)
 - Temple Unviersity
 
